@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+head, footer{
+    font-family: 'Roboto', sans-serif;
+}
+.inicio{
+    background-color: #222222;
+    font-size: 10px;
+    color: #F3F3F3;
+    width: 1025px;
+}
+.navegación{
+    background-color: #F0A83E;    
+    font-size: 13px;
+    color: #FFFFFF;
+    width: 1025px;
+}
+.huella{
+    list-style-image: url(../img/pawprin.svg);
+    width: 1025px;
+}
+.h2{
+    font-size: 30px;    
+    color: #3C2313;
+    text-align: center;
+    line-height: 35.16px;   
+    width: 1025px;
+}
+.backgroundComederos{
+    background-image: url(../img/background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 1025px;
+    height: 409px;
+}
+.h3{    
+    font-size: 16px;    
+    color: #3C2313;
+    text-align: center;
+    line-height: 18.75px;
+    width: 1025px;
+}
+h4{
+    text-align: center;
+    width: 1025px;
+}
+.comederos1{
+    font-size: 16px;    
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 18.75px; 
+    background-color: #F0A83E;
+    width: 1025px;
+}
+h1{
+    font-size: 40px;    
+    color: #3C2313;
+    text-align: center;
+    line-height: 46.88px; 
+    font-weight: bold;
+    width: 1025px;
+}
+.lista{
+    font-size: 15px;    
+    color: #666666;
+    line-height: 17.58px; 
+    text-decoration: none;
+    width: 1025px;
+}
+.pdes{
+    font-size: 15px;    
+    color: #3C2313;   
+    line-height: 17.58px;     
+    background-color: #FBFAF6;
+    width: 1025px;
+}
+h2{
+    font-size: 15px;    
+    color: #3C2313;   
+    line-height: 17.58px;     
+    width: 1025px;
+}
+h3{
+    font-size: 15px;
+    color: #F0A83E;
+    line-height: 17.58px; 
+    width: 1025px;
+}
+.contacto{
+    background-color: #3C2313;
+    width: 1025px;
+}
+.contac1{
+    font-weight: bold;
+    width: 1025px;
+    font-size: 20px;    
+    color: #FFFFFF;   
+    line-height: 23.44px;     
+}
+.detalle{
+    font-size: 10px;    
+    width: 1025px;
+    color: #8A8787;   
+    line-height: 11.72px;     
+}
+.final{
+    font-size: 10px;    
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 11.72px; 
+    background-color: #222222;
+    width: 1025px;
+}
